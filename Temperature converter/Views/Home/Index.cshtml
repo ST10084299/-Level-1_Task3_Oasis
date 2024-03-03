@@ -1,0 +1,38 @@
+﻿@model data
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="~/css/stylesheet.css" rel="stylesheet" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <style>
+
+    </style>
+</head>
+<body>
+
+    <form asp-action="Index" asp-controller="Home" method="POST">
+        <div class="container">
+            <h1>Temperature Converter</h1>
+            <div class="input-group">
+                <label for="temperature">Temperature:</label>
+                <input asp-for="Input" type="number" id="temperature" placeholder="Enter temperature">
+            </div>
+            <div class="input-group">
+                <label for="type">Type:</label>
+                <select asp-for="Name" id="type">
+                    <option value="Celsius">Celsius</option>
+                    <option value="Fahrenheit">Fahrenheit</option>
+                </select>
+            </div>
+            <button type="submit" class="btn">Convert</button>
+            <div class="result" id="result">
+                @Model.answer
+            </div>
+        </div>
+    </form>
+ 
+</body>
+</html>

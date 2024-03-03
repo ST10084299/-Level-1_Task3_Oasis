@@ -1,0 +1,62 @@
+C:\Users\razia\source\repos\Temperature converter\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razia\source\repos\Temperature converter\bin\Debug\net6.0\appsettings.json
+C:\Users\razia\source\repos\Temperature converter\bin\Debug\net6.0\Temperature converter.staticwebassets.runtime.json
+C:\Users\razia\source\repos\Temperature converter\bin\Debug\net6.0\Temperature converter.exe
+C:\Users\razia\source\repos\Temperature converter\bin\Debug\net6.0\Temperature converter.deps.json
+C:\Users\razia\source\repos\Temperature converter\bin\Debug\net6.0\Temperature converter.runtimeconfig.json
+C:\Users\razia\source\repos\Temperature converter\bin\Debug\net6.0\Temperature converter.dll
+C:\Users\razia\source\repos\Temperature converter\bin\Debug\net6.0\Temperature converter.pdb
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.csproj.AssemblyReference.cache
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.AssemblyInfoInputs.cache
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.AssemblyInfo.cs
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.csproj.CoreCompileInputs.cache
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.RazorAssemblyInfo.cache
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.RazorAssemblyInfo.cs
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\staticwebassets\msbuild.Temperature converter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\staticwebassets\msbuild.build.Temperature converter.props
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Temperature converter.props
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Temperature converter.props
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\scopedcss\bundle\Temperature converter.styles.css
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\scopedcss\projectbundle\Temperature converter.bundle.scp.css
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.dll
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\refint\Temperature converter.dll
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.pdb
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\Temperature converter.genruntimeconfig.cache
+C:\Users\razia\source\repos\Temperature converter\obj\Debug\net6.0\ref\Temperature converter.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\bin\Debug\net6.0\appsettings.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\bin\Debug\net6.0\Temperature converter.staticwebassets.runtime.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\bin\Debug\net6.0\Temperature converter.exe
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\bin\Debug\net6.0\Temperature converter.deps.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\bin\Debug\net6.0\Temperature converter.runtimeconfig.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\bin\Debug\net6.0\Temperature converter.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\bin\Debug\net6.0\Temperature converter.pdb
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.csproj.AssemblyReference.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.AssemblyInfoInputs.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.AssemblyInfo.cs
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.csproj.CoreCompileInputs.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.RazorAssemblyInfo.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.RazorAssemblyInfo.cs
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\staticwebassets\msbuild.Temperature converter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\staticwebassets\msbuild.build.Temperature converter.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Temperature converter.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Temperature converter.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\scopedcss\bundle\Temperature converter.styles.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\scopedcss\projectbundle\Temperature converter.bundle.scp.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\refint\Temperature converter.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.pdb
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\Temperature converter.genruntimeconfig.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task3_Tempreture converter\Temperature converter\obj\Debug\net6.0\ref\Temperature converter.dll
